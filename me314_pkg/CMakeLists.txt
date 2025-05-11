@@ -44,6 +44,7 @@ install(PROGRAMS
   me314_py/xarm_planner/BackForthNode.py
   me314_py/xarm_planner/BackForthStopNode.py
   me314_py/xarm_planner/PegPlaceSimple.py
+  me314_py/xarm_planner/PegPlaceMoment.py
   me314_py/xarm_planner/TransformTimer.py
   DESTINATION lib/${PROJECT_NAME}
 )
